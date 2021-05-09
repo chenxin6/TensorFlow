@@ -18,5 +18,3 @@ python -m pip install matplotlib
 ```
 ## python8.py
 优化器，批量梯度下降法（BGD），随机梯度下降法（SGD）和其他更复杂的方法
-
-

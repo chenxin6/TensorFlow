@@ -1,4 +1,7 @@
 # TensorFlow
+
+Video source https://www.bilibili.com/video/BV1Lx411j7ws?p=28&spm_id_from=pageDriver
+
 Using Anaconda and creating a new environment
 
 ```
